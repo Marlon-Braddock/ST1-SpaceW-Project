@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cost
+comment1.params=
+comment1.target=Cost()
+comment2.params=input
+comment2.target=Cost(Invoice)
+comment3.params=input
+comment3.target=Cost(Cost)
+comment4.params=
+comment4.target=int\ getLaunchCost()
+comment5.params=
+comment5.target=int\ getTax()
+comment6.params=
+comment6.target=int\ getTrackFee()
+comment7.params=
+comment7.target=int\ getSiteFee()
+comment8.params=
+comment8.target=int\ getTotal()
+comment9.params=
+comment9.target=void\ updateTotal()
+numComments=10
